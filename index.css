@@ -1,0 +1,139 @@
+.img1{
+background-image: url(https://cdn.pixabay.com/photo/2015/03/26/11/03/trees-692334_960_720.jpg);
+height: 683px ;
+display: flex;
+background-repeat: no-repeat;
+color: aliceblue;
+background-size: cover;
+justify-content: center;
+align-items: center;
+font-size: 94px;
+text-transform: uppercase;
+flex-direction: column;
+/* filter: brightness(80%); */
+
+}
+
+.caption{
+position: fixed;
+font-size: 20px;
+color: blanchedalmond;
+/* background-color: black; */
+width: 100%;
+background-color: rgba(0, 0, 0, 0.7);
+display: flex;
+align-items: baseline;
+}
+
+span{
+  /* display: flex; */
+  font-size: 55px;
+ 
+}
+
+.sever{
+color: #A29C9C;
+}
+
+.polus{
+color: white;
+}
+
+.name{
+display: flex;
+}
+
+a{
+  color: aliceblue;  
+  font-size: 20px;
+
+}
+
+ul{
+margin: 60px 60px;
+display: flex;
+justify-content: flex-end;
+}
+
+li{
+    text-decoration: none;
+     text-transform: uppercase;
+     margin: 0 40px;
+}
+
+.severpolus{
+flex: 1;
+
+}
+
+.content1{
+  display: flex;
+  justify-content: center;
+  height: 683px ;
+}
+
+.rigthcontent1{
+  width: 100%;
+  background-color: black;
+  color: white;
+
+
+}
+.leftcontent1{
+background-image: url(https://static.wixstatic.com/media/cb53a86a819b45df845c9af9cff35093.jpg/v1/fill/w_712,h_683,al_c,q_85,usm_0.66_1.00_0.01/cb53a86a819b45df845c9af9cff35093.webp) ;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+
+}
+.content2{
+  display: flex;
+  justify-content: center;
+  height: 683px ;
+
+}
+
+.content12{
+  background-size: cover;
+  width: 100%;
+background-image: url(https://static.wixstatic.com/media/68c56f_49a377f1f5d647abbd585bb2fe87f2cf~mv2.png/v1/fill/w_513,h_513,fp_0.50_0.50,q_90/68c56f_49a377f1f5d647abbd585bb2fe87f2cf~mv2.webp);
+}
+.content22{
+  background-size: cover;
+  width: 100%;
+ background-image: url(https://static.wixstatic.com/media/68c56f_d911791c6dc64d92a39ceb3c6947ac6d~mv2.png/v1/fill/w_513,h_513,fp_0.50_0.50,q_90/68c56f_d911791c6dc64d92a39ceb3c6947ac6d~mv2.webp);
+}
+.content32{
+  background-size: cover;
+  width: 100%;
+  background-image: url( https://static.wixstatic.com/media/68c56f_cbe56c94cbc14466bde5e405a938f633~mv2.png/v1/fill/w_515,h_513,fp_0.50_0.50,q_90/68c56f_cbe56c94cbc14466bde5e405a938f633~mv2.webp);
+}
+
+.content3{
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  height:683px;
+  color: white;
+
+}
+.content13{
+  
+
+}
+.content23{
+
+}
+.content33{
+
+}
+.content43{
+
+}
+.content4{
+  background-image: url(https://static.wixstatic.com/media/a9ff3b_1d1a03e206e948cf908a9f1274ee9df0.jpg/v1/fill/w_980,h_638,al_c,q_85,usm_0.66_1.00_0.01/a9ff3b_1d1a03e206e948cf908a9f1274ee9df0.webp);
+  height:683px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
